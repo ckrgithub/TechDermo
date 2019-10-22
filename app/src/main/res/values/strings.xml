@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">TechDermo</string>
+
+    <string-array name="data">
+        <item>java</item>
+        <item>android</item>
+        <item>kotlin</item>
+        <item>flutter</item>
+        <item>ios</item>
+        <item>swift</item>
+        <item>c++</item>
+        <item>go</item>
+        <item>python</item>
+        <item>javascript</item>
+        <item>html</item>
+        <item>css</item>
+        <item>php</item>
+        <item>groovy</item>
+    </string-array>
 </resources>

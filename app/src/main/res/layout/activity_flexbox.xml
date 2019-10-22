@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.RecyclerView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:overScrollMode="never"
+    android:paddingLeft="11dp"
+    android:paddingRight="11dp"
+    android:scrollbars="none"
+    android:id="@+id/recyclerView"
+    tools:listitem="@layout/rv_item_flexbox"
+    tools:context=".FlexBoxActivity">
+
+</android.support.v7.widget.RecyclerView>
